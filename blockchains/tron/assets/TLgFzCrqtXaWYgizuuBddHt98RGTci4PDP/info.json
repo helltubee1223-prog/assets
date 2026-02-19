@@ -1,1 +1,11 @@
-
+{
+  "name": "USDT",
+  "symbol": "USDT",
+  "type": "TRC20",
+  "decimals": 6,
+  "description": "USDT test token deployed for educational purposes on TRON.",
+  "website": "",
+  "explorer": "https://tronscan.org/#/token20/TLgFzCrqtXaWYgizuuBddHt98RGTci4PDP",
+  "status": "active",
+  "id": "TLgFzCrqtXaWYgizuuBddHt98RGTci4PDP"
+}
